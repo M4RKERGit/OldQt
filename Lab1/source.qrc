@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>C:/Users/M4RKER/Downloads/63079455_p0.jpg</file>
+        <file>C:/Users/M4RKER/Downloads/NUGGA.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>C:/Users/M4RKER/Downloads/RipTear.mp3</file>
+        <file>C:/Users/M4RKER/Downloads/HEHE BOI.mp3</file>
+    </qresource>
+</RCC>
